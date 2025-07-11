@@ -1,1 +1,1 @@
-# js-leran
+# js-learn
